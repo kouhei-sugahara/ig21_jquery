@@ -2,7 +2,7 @@ var monster = $('#monster')
 console.log(monster)
 
 function show() {
-    monster.fadeIn(2000)
+    monster.fadeIn(1000)
     //monster.slideDown()
 }
 
